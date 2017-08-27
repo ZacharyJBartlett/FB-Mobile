@@ -11,4 +11,19 @@ const config = {
     messagingSenderId: "484299108181"
   };
 
-  
+  class Hello extends Component {
+    render() {
+        return (
+            <View style="{styles.container}">
+                Hello World
+                </View>
+        );
+    }
+}
+
+const styles = StyleSheet.create({
+    container: {
+        backgroundColor: '#blue',
+        flex: 1,
+    },
+});
