@@ -1,0 +1,22 @@
+{
+  "name": "fb-mobile",
+  "version": "1.0.0",
+  "description": "mobile app using firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacharyJBartlett/FB-Mobile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZacharyJBartlett/FB-Mobile/issues"
+  },
+  "homepage": "https://github.com/ZacharyJBartlett/FB-Mobile#readme",
+  "dependencies": {
+    "firebase": "^4.3.0"
+  }
+}
